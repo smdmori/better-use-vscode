@@ -1,6 +1,6 @@
 # better-use-vscode
 # How to Better Use VSCode
-Visual studio Code Simple Cheatsheet
+Visual studio Code Simple Cheatsheet  
 This is gathered using vscode interactive playground
 
 ****
