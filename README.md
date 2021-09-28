@@ -2,6 +2,11 @@
 # How to Better Use VSCode
 This is gathered using vscode interactive playground
 
+****
+# Selection
+**Select word** : CTRL + SHIFT + RIGHT/LEFT  
+**Select to the end** : SHIFT + END  
+**Select to the start** : SHIFT + HOME  
 **Box Selection** : SHIFT + arrow UP/DOWN  
 
 
@@ -11,7 +16,10 @@ This is gathered using vscode interactive playground
 **Create occurance on next** : CTRL + D  
 **Create occurance on All** : CTRL + SHIFT + L  
 
+****  
 **Intellisence** : CTRL + SPACE  
+****  
+
 
 # Line Action  
 **Copy a line and insert it above or below** : SHIFT + ALT + UP/DOWN  
