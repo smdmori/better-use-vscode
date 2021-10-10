@@ -16,9 +16,9 @@ This is gathered using vscode interactive playground
 **Adding cursor** : CTRL + ALT + UP/DOWN  
 **Create occurance on next** : CTRL + D  
 **Create occurance on All** : CTRL + SHIFT + L  
-**Go to last edit location** : CTRL + K CTRL + Q
-**Go to previous file** : CTRL + P P
-**Go to symbol in editor** : CTRL + SHIFT + O
+**Go to last edit location** : CTRL + K CTRL + Q  
+**Go to previous file** : CTRL + P P  
+**Go to symbol in editor** : CTRL + SHIFT + O  
 
 ****  
 **Intellisence** : CTRL + SPACE  
