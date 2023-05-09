@@ -45,6 +45,7 @@ Rename Refactoring : F2
 
 # Error and Warnings
 **Navigate across errors** : F8  
+**Show error on a squiggly red line** : CTRL + K CTRL + I
 
 # JS Type Checking
 add this comment on top of file for run **Typescript type checker** :  
