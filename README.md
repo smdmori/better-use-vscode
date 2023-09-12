@@ -9,7 +9,7 @@ This is gathered using vscode interactive playground
 **Select to the end** : SHIFT + END  
 **Select to the start** : SHIFT + HOME  
 **Box Selection** : SHIFT + arrow UP/DOWN  
-
+**Block Selection** : SHIFT + ALT + arrow RIGHT + arrow RIGHT 
 
 # Cursor  
 
