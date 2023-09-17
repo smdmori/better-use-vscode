@@ -3,6 +3,18 @@
 Visual studio Code Simple Cheatsheet  
 This is gathered using vscode interactive playground
 
+## Table of Contents
+
+1. [Selection](#selection)
+2. [Cursor](#cursor)
+3. [Line Action](#line-action)
+4. [Formatting](#formatting)
+5. [Code Folding](#code-folding)
+6. [Error and Warnings](#error-and-warnings)
+7. [JS Type Checking](#js-type-checking)
+8. [Other](#other)
+
+
 ****
 # Selection
 **Select word** : CTRL + SHIFT + RIGHT/LEFT  
